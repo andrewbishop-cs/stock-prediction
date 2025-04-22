@@ -1,0 +1,24 @@
+# Text + embeddings
+gensim
+nltk
+spacy
+
+# Data handling
+pandas
+numpy
+
+# Technical indicators
+ta
+
+# Modeling
+scikit-learn
+xgboost
+
+# Data feeds
+yfinance
+newsapi-python
+
+# Deployment / dashboard
+streamlit
+fastapi
+uvicorn

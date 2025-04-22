@@ -1,0 +1,26 @@
+# Virtual env
+venv/
+# Byte‑compiled / cache files
+__pycache__/
+*.py[cod]
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment vars / secrets
+.env
+# NewsAPI key file (if you ever drop it into a file)
+*.key
+
+# Data dumps
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit/webserver state
+.streamlit/
+
+# Logs
+*.log
