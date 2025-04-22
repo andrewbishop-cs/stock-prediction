@@ -22,3 +22,7 @@ newsapi-python
 streamlit
 fastapi
 uvicorn
+
+# Notebook
+joblib
+matplotlib
