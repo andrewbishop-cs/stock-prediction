@@ -2,6 +2,16 @@
 src/data_ingest.py
 
 Fetch historical price data and news headlines for specified tickers.
+
+fetch news data:
+python src/data_ingest.py \
+  --tickers AAPL MSFT GOOGL \
+  --start-date 2025-02-13 \
+  --end-date   2025-04-21 \
+  --news-api-key YOUR_KEY \
+  --output-dir data/raw
+
+
 """
 
 import os
