@@ -53,7 +53,7 @@ stock-news-predictor/
 │   └── dashboard.py   # Streamlit interface
 ├── tests/             # Pytest tests for data ingestion
 ├── requirements.txt
-├── README.md          # ← you are here
+└── README.md          # ← you are here
 ```
 
 ---
