@@ -54,7 +54,6 @@ stock-news-predictor/
 ├── tests/             # Pytest tests for data ingestion
 ├── requirements.txt
 ├── README.md          # ← you are here
-└── RUN_WORKFLOW.md    # Full step-by-step guide
 ```
 
 ---
